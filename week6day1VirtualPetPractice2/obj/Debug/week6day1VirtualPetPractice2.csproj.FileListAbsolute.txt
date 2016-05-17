@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\week6day1VirtualPetPractice2\week6day1VirtualPetPractice2\bin\Debug\week6day1VirtualPetPractice2.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\week6day1VirtualPetPractice2\week6day1VirtualPetPractice2\bin\Debug\week6day1VirtualPetPractice2.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\week6day1VirtualPetPractice2\week6day1VirtualPetPractice2\bin\Debug\week6day1VirtualPetPractice2.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\week6day1VirtualPetPractice2\week6day1VirtualPetPractice2\obj\Debug\week6day1VirtualPetPractice2.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\week6day1VirtualPetPractice2\week6day1VirtualPetPractice2\obj\Debug\week6day1VirtualPetPractice2.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\week6day1VirtualPetPractice2\week6day1VirtualPetPractice2\obj\Debug\week6day1VirtualPetPractice2.pdb
